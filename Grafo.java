@@ -5,9 +5,11 @@
  */
 package Grafo;
 
+
+import Grafo.Aresta;
 import java.util.ArrayList;
         
-import Grafo.Aresta;
+import jdk.nashorn.internal.runtime.ListAdapter;
 
 /**
  *
@@ -15,4 +17,7 @@ import Grafo.Aresta;
  */
 public class Grafo {
     
+    ArrayList<Aresta> teste = new ArrayList<Aresta>();
+    
+    Aresta teste2 = new Aresta();        
 }
