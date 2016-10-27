@@ -5,6 +5,8 @@
  */
 package Grafo;
 
+import java.util.ArrayList;
+        
 import Grafo.Aresta;
 
 /**
